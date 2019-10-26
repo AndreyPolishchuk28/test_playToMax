@@ -1,0 +1,16 @@
+.wrapper{
+    display: flex;
+    flex-wrap: wrap;
+    width: 464px;
+    margin: 0 auto;
+
+}
+
+.cells{
+    width: 75px;
+    height: 50px;
+    border: 1px solid black;
+    text-align: center;
+    font-size: 25px;
+    line-height: 2;
+}
